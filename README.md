@@ -1,5 +1,5 @@
 # Magnetite_ternary_plot
-Ternary phase diagram of the iron-titatium-oxide-system.
+Ternary phase diagram of the iron-titanium-oxide-system.
 
 ##Data on Curie Temperatures (in deg C) for given TMX(0.4,0.7,1.0) and oxidation, Z. Digitised from Readman and OReilly 1972 
 #Readman, P.W. & O’Reilly, W., 1972. Magnetic Properties of Oxidized (Cation-Deficient) Titanomagnetites (Fe, Ti, )
